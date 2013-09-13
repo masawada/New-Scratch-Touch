@@ -2,7 +2,7 @@
 
 Scratch (1.4)では外部センサーを使うことが出来ます。これは、iPhoneをセンサー代わりにするデモです。
 
-すでに2年前[Scratch Touch](https://github.com/masawada/scratch-touch)を開発していますが、気付いたらexpressとsocket.ioが気付いたら劇的な仕様変更をしていて変更するのが面倒になったので一から書きました。
+すでに2年前[Scratch Touch](https://github.com/masawada/scratch-touch)を開発していますが、気付いたらexpressとsocket.ioが劇的な仕様変更をしていて変更するのが面倒になったので一から書きました。
 
 ## 必要なもの
 * iPhone (iPod touch)
